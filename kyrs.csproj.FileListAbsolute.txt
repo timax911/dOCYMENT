@@ -1,0 +1,26 @@
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Form1.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Form2.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Form3.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Form5.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Form6.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.Properties.Resources.resources
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.csproj.GenerateResource.cache
+C:\Users\timok\source\repos\kyrs\kyrs\obj\Release\kyrs.csproj.CoreCompileInputs.cache
+C:\Users\timok\Desktop\GG2\kyrs\bin\Release\user ld.mdf
+C:\Users\timok\Desktop\GG2\kyrs\bin\Release\user ld_log.ldf
+C:\Users\timok\Desktop\GG2\kyrs\bin\Release\kyrs.exe.config
+C:\Users\timok\Desktop\GG2\kyrs\bin\Release\kyrs.exe
+C:\Users\timok\Desktop\GG2\kyrs\bin\Release\kyrs.pdb
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.csprojAssemblyReference.cache
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form1.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form2.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form3.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form4.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form6.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Form_Dolj.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Pochta.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.Properties.Resources.resources
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.csproj.GenerateResource.cache
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.csproj.CoreCompileInputs.cache
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.exe
+C:\Users\timok\Desktop\GG2\kyrs\obj\Release\kyrs.pdb
